@@ -7,6 +7,8 @@
 - 2 points are deducted when cards are mismatched
   
 ## TODOS:
+- Tries should be recorded
+- Images should be of different trendy images
 1. Playing Cards User Interface Images
 2. Timer to be optimized
 3. Themed Cards
